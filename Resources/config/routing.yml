@@ -1,0 +1,3 @@
+aescarcha_serializer_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: AescarchaSerializerBundle:Default:index }

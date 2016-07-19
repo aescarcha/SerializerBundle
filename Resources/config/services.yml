@@ -1,0 +1,4 @@
+services:
+#    aescarcha_serializer.example:
+#        class: Aescarcha\SerializerBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
